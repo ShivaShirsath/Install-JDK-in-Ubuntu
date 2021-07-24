@@ -9,5 +9,5 @@ Download Letest JDK [⇩](https://www.oracle.com/java/technologies/javase-downlo
 - Step 2 :
   > Extract Downloaded Tar.GZ file 
   ```bash
-  sudo tar zxvf /<DOWNLOAD_PATH>/jdk-<VERSION>-linux-x64.tar.gz -C /usr/lib/jvm
+  sudo tar zxvf /Downloads/jdk-'VERSION'-linux-x64.tar.gz -C /usr/lib/jvm
   ```

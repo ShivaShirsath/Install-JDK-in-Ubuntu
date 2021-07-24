@@ -51,12 +51,12 @@ Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/j
   sudo update-alternatives --config javac
   ```
 ### Verify / Check Version 
-    - java
-    ```bash
-    java --version
-    ```
-    - javac
-    ```bash
-    javac --version
-    ```
-  
++ java
+  ```bash
+  java --version
+  ```
++ javac
+  ```bash
+  javac --version
+  ```
+***

@@ -33,7 +33,7 @@ Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/j
   ```
 ## Open
 | ```bash VERSION ``` 
-| 
+| :---:
 | `8` 
 | `11`
 | `13`

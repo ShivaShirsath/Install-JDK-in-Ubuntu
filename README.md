@@ -40,7 +40,7 @@ Download Letest JDK [⇩](https://www.oracle.com/java/technologies/javase-downlo
     ```bash
     javac --version
     ```
-## Open JDK
+## Open
 + Step 1 :
   - JDK
   ```bash

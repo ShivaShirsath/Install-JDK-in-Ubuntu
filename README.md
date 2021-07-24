@@ -5,19 +5,19 @@
   + [Verify / Check](#verify)
 ***
 ## Oracle
-+ Oracle JDK
-  - Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/javase-downloads.html) in Tar.GZ format
-    + Step 1 :
+- Oracle JDK
+  + Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/javase-downloads.html) in Tar.GZ format
+    - Step 1 :
       - Make Java Virtual Machine (JVM) Directory 
         ```bash
         sudo mkdir -p /usr/lib/jvm
         ```
-    + Step 2 :
+    - Step 2 :
       - Extract Downloaded Tar.GZ file 
         ```bash
         sudo tar zxvf /Downloads/jdk-`VERSION`_`OS_VERSION `_bin.tar.gz -C /usr/lib/jvm
         ```
-    + Step 3 : Install JDK 
+    - Step 3 : Install JDK 
       - java
         ```bash
         sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-`VERSION`/bin/java 1
@@ -26,7 +26,7 @@
         ```bash
         sudo update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/jdk-`VERSION`/bin/javac 1
         ```
-    + Step 4 : Set JDK
+    - Step 4 : Set JDK
       - java
         ```bash
         sudo update-alternatives --set java /usr/lib/jvm/jdk-`VERSION`/bin/java
@@ -37,8 +37,8 @@
         ```
 ***
 ## Open
-+ Open JDK
-  - VERSION : `8`  /  `11`  /  `13`  /  `14`  /  `16`
+- Open JDK
+  + VERSION : `8`  /  `11`  /  `13`  /  `14`  /  `16`
   + Step 1 :
     - JDK
       ```bash
@@ -50,18 +50,18 @@
       ```
 ***
 ## select
-+ Select Alternative Version
-  - java
+- Select Alternative Version
+  + java
     ```bash
     sudo update-alternatives --config java
     ```
-  - javac
+  + javac
     ```bash
     sudo update-alternatives --config javac
     ```
 ***
 ## verify
-+ Verify / Check Version 
+- Verify / Check Version 
   - java
     ```bash
     java --version

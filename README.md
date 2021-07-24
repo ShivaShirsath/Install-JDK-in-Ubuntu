@@ -2,7 +2,7 @@
   # [oracle JDK & JRE](#oracle)
   # [open JDK & JRE](#open)
 ## Oracle
-Download Letest JDK from <h1 align=center>[Oracle ⇩](https://www.oracle.com/java/technologies/javase-downloads.html) in Tar.GZ format</h1>
+Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/javase-downloads.html) in Tar.GZ format
 + Step 1 :
   - Make Java Virtual Machine (JVM) Directory 
   ```bash

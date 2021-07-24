@@ -6,9 +6,9 @@
 ***
 ## Oracle
 - Oracle JDK
-  + Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/javase-downloads.html) in Tar.GZ format
-  + VERSION    : 8u301  /  11.0.12  /  16.0.2
-  + OS_VERSION : aarch64  /  x64  
+  + Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/javase-downloads.html) in TAR.GZ format
+  + VERSION    : `8u301`  /  `11.0.12`  /  `16.0.2`
+  + OS_VERSION : `aarch64`  /  `x64`
     - Step 1 :
       - Make Java Virtual Machine (JVM) Directory 
         ```bash

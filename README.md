@@ -1,6 +1,8 @@
 # install JDK in Ubuntu
-  # [oracle JDK & JRE](#oracle)
-  # [open JDK & JRE](#open)
+  + [oracle JDK & JRE](#oracle)
+  + [open JDK & JRE](#open)
+  + [Select Alternative Version](#select)
+  + [Verify / Check](#verify)
 ## Oracle
 Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/javase-downloads.html) in Tar.GZ format
 + Step 1 :
@@ -42,6 +44,7 @@ Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/j
   ```bash
   sudo apt install openjdk-`VERSION`-jre -y
   ```
+###### select
 ### Select Alternative Version
 + java
   ```bash
@@ -51,6 +54,7 @@ Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/j
   ```bash
   sudo update-alternatives --config javac
   ```
+###### verify
 ### Verify / Check Version 
 + java
   ```bash

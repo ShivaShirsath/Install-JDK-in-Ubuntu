@@ -7,6 +7,8 @@
 ## Oracle
 - Oracle JDK
   + Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/javase-downloads.html) in Tar.GZ format
+  + VERSION    : 8u301  /  11.0.12  /  16.0.2
+  + OS_VERSION : aarch64  /  x64  
     - Step 1 :
       - Make Java Virtual Machine (JVM) Directory 
         ```bash
@@ -15,7 +17,7 @@
     - Step 2 :
       - Extract Downloaded Tar.GZ file 
         ```bash
-        sudo tar zxvf /Downloads/jdk-`VERSION`_`OS_VERSION `_bin.tar.gz -C /usr/lib/jvm
+        sudo tar zxvf /Downloads/jdk-`VERSION`_linux-`OS_VERSION `_bin.tar.gz -C /usr/lib/jvm
         ```
     - Step 3 : Install JDK 
       - java

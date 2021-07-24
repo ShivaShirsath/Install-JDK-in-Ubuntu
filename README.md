@@ -1,7 +1,7 @@
 # install JDK in Ubuntu
-  # [oracle](#oracle jdk & jre)
-  # [open](#open jdk)
-## Oracle JDK & JRE
+  # [oracle JDK & JRE](#oracle)
+  # [open JDK & JRE](#open)
+## Oracle
 Download Letest JDK [⇩](https://www.oracle.com/java/technologies/javase-downloads.html) in Tar.GZ format
 + Step 1 :
   - Make Java Virtual Machine (JVM) Directory 

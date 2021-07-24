@@ -38,16 +38,16 @@ Download Letest JDK [⇩](https://www.oracle.com/java/technologies/javase-downlo
     ```bash
     javac --version
     ```
-  ## Open JDK
-  + Step 1 :
-    - JDK
-    ```bash
-    sudo apt install openjdk-`VERSION`-jdk -y
-    ```
-    - JRE
-    ```bash
-    sudo apt install openjdk-`VERSION`-jre -y
-    ```
+## Open JDK
++ Step 1 :
+  - JDK
+  ```bash
+  sudo apt install openjdk-`VERSION`-jdk -y
+  ```
+  - JRE
+  ```bash
+  sudo apt install openjdk-`VERSION`-jre -y
+  ```
     
     
     

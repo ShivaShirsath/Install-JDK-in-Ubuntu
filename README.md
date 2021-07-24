@@ -32,7 +32,7 @@ Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/j
   sudo update-alternatives --set javac /usr/lib/jvm/jdk-`VERSION`/bin/javac
   ```
 ## Open
-| <img width=200/> `VERSION `| <div style="width:290px">8</div> | `11` | `13` | `14` | `16`
+| <img width=25%/> `VERSION `| `8` | `11` | `13` | `14` | `16`
 |---	|---	|---	|---	|---	|---
 + Step 1 :
   - JDK

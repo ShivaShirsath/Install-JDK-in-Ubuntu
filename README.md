@@ -1,7 +1,8 @@
 # install JDK in Ubuntu
-  + [oracle JDK ](#oracle)
-  + [open JDK & JRE](#open)
-  + [Select Alternative Version](#select)
+  + [oracle JDK](#oracle)
+  + [open JDK](#open)
+  + [Default JDK](#default)
+  + [Select Alternative Version](#configure)
   + [Verify / Check](#verify)
 ***
 ## Oracle
@@ -51,7 +52,13 @@
       sudo apt install openjdk-`VERSION`-jre -y
       ```
 ***
-## select
+## Default
+- Defalut JDK
+  ```bash
+  sudo apt install default-jdk -y
+  ```
+***
+## Configure
 - Select Alternative Version
   + java
     ```bash

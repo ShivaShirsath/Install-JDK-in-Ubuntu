@@ -38,7 +38,7 @@
 ***
 ## Open
 + Open JDK
-  - `VERSION`: `8` / `11` / `13` / `14` / `16`
+  - VERSION : `8`  /  `11`  /  `13`  /  `14`  /  `16`
   + Step 1 :
     - JDK
       ```bash

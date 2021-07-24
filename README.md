@@ -19,11 +19,11 @@
     + Step 3 : Install JDK 
       - java
       ```bash
-      sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/jdk-`VERSION`/bin/java" 1
+      sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-`VERSION`/bin/java 1
       ```
       - javac
       ```bash
-      sudo update-alternatives --install "/usr/bin/javac" "javac" "/usr/lib/jvm/jdk-`VERSION`/bin/javac" 1
+      sudo update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/jdk-`VERSION`/bin/javac 1
       ```
     + Step 4 : Set JDK
       - java

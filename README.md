@@ -31,12 +31,12 @@ Download Letest JDK [⇩](https://www.oracle.com/java/technologies/javase-downlo
   ```
 - Step 5 :
 > Verify / Check Version
-  > java
-  ```bash
-  java --version
-  ```
-  > javac
-  ```bash
-  javac --version
-  ```
+   > java
+   ```bash
+   java --version
+   ```
+   > javac
+   ```bash
+   javac --version
+   ```
   ## Open JDK 

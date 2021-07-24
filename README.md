@@ -31,15 +31,6 @@ Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/j
   ```bash
   sudo update-alternatives --set javac /usr/lib/jvm/jdk-`VERSION`/bin/javac
   ```
-+ Step 5 : Verify / Check Version 
-    - java
-    ```bash
-    java --version
-    ```
-    - javac
-    ```bash
-    javac --version
-    ```
 ## Open
 + Step 1 :
   - JDK
@@ -50,6 +41,22 @@ Download Letest JDK from [Oracle ⇩](https://www.oracle.com/java/technologies/j
   ```bash
   sudo apt install openjdk-`VERSION`-jre -y
   ```
-    
-    
-    
+### Select Alternative Version
++ java
+  ```bash
+  sudo update-alternatives --config java
+  ```
++ javac
+  ```bash
+  sudo update-alternatives --config javac
+  ```
+### Verify / Check Version 
+    - java
+    ```bash
+    java --version
+    ```
+    - javac
+    ```bash
+    javac --version
+    ```
+  

@@ -11,27 +11,27 @@ Download Letest JDK [⇩](https://www.oracle.com/java/technologies/javase-downlo
   ```bash
   sudo tar zxvf /Downloads/jdk-`VERSION`_`OS_VERSION `_bin.tar.gz -C /usr/lib/jvm
   ```
-- Step 3 :
-  > Install JDK ( java )
+- Step 3 : Install JDK 
+  > java
   ```bash
   sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/jdk-`VERSION`/bin/java" 1
   ```
-  > Install JDK ( javac )
+  > javac
   ```bash
   sudo update-alternatives --install "/usr/bin/javac" "javac" "/usr/lib/jvm/jdk-`VERSION`/bin/javac" 1
   ```
-- Step 4 :
-  > Set JDK ( java )
+- Step 4 : Set JDK
+  > java
   ```bash
   sudo update-alternatives --set java /usr/lib/jvm/jdk-`VERSION`/bin/java
   ```
-  > Set JDK ( javac )
+  > javac
   ```bash
   sudo update-alternatives --set javac /usr/lib/jvm/jdk-`VERSION`/bin/javac
   ```
-- Step 5 :
-  > Verify / Check Version
-  
+- Step 5 : hhh
+ Verify / Check Version
+ 
     > java
     ```bash
     java --version

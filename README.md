@@ -45,9 +45,9 @@
   -  `openjdk-13`
   -  `openjdk-14`
   -  `openjdk-16`
-```bash
-sudo apt install `VERSION`-jdk
-```
+  ```bash
+  sudo apt install `VERSION`-jdk
+  ```
 ***
 ## Configure
 - Select Alternative Version
@@ -60,7 +60,7 @@ sudo apt install `VERSION`-jdk
     sudo update-alternatives --config javac
     ```
 ***
-## verify
+## Verify
 - Verify / Check Version 
   - java
     ```bash

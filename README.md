@@ -45,6 +45,7 @@
   -  `openjdk-13`
   -  `openjdk-14`
   -  `openjdk-16`
+  
   ```bash
   sudo apt install `VERSION`-jdk
   ```

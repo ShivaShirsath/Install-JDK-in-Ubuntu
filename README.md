@@ -13,8 +13,8 @@
         ```bash
         sudo mkdir -p /usr/lib/jvm
         ```
-    + Step 2 : `tar zxvf`
-      - Extract Downloaded Tar.GZ file 
+    + Step 2 : `sudo tar zxvf`
+      - Extract Downloaded TAR.GZ file 
         ```bash
         sudo tar zxvf /Downloads/jdk-`VERSION`_linux-`OS_VERSION `_bin.tar.gz -C /usr/lib/jvm
         ```

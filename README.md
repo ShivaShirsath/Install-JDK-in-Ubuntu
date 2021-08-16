@@ -39,15 +39,17 @@
 ***
 ## Open
 + VERSION
-  - `default`
-  -  `openjdk-8`
-  -  `openjdk-11`
-  -  `openjdk-13`
-  -  `openjdk-14`
-  -  `openjdk-16`   
+  - `default-jdk`
+  -  `openjdk-8-jdk`
+  -  `openjdk-11-jdk`
+  -  `openjdk-13-jdk`
+  -  `openjdk-14-jdk`
+  -  `openjdk-15-jdk`
+  -  `openjdk-16-jdk` 
+  -  `openjdk-17-jdk`  
   ‎
   ```bash
-  sudo apt install `VERSION`-jdk
+  sudo apt install `VERSION`
   ```
 ***
 ## Configure

@@ -42,6 +42,7 @@
   - `default-jdk`
   -  `openjdk-8-jdk`
   -  `openjdk-11-jdk`
+  -  `openjdk-12-jdk`
   -  `openjdk-13-jdk`
   -  `openjdk-14-jdk`
   -  `openjdk-15-jdk`

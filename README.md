@@ -38,6 +38,15 @@
         ```
 ***
 ## Open
+```bash
+sudo apt install software-properties-common -y
+
+sudo add-apt-repository ppa:openjdk/ppa
+sudo add-apt-repository ppa:openjdk-r/ppa
+
+sudo apt update -y && sudo apt upgrade -y
+sudo apt autoclean && sudo apt autoremove && sudo apt autopurge
+```
 + VERSION
   - `default-jdk`
   -  `openjdk-8-jdk`
